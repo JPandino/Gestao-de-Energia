@@ -1,9 +1,7 @@
 # Gestao-de-Energia
 Este repositório trata de um case apresentado por uma gestora de energia...
 
-## Problema
-ESTUDO DE CASO
-
+## Estudo de Caso
 Cenário:
 
 A Empresa ABC é cliente da nossa assessoria e possui um contrato de energia de longo prazo com a Comercializadora XPTO.
