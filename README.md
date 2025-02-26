@@ -1,5 +1,5 @@
 # Gestora de Energia
-Este repositório trata de um case apresentado por uma gestora de energia...
+Este repositório trata de um case apresentado por uma gestora de energia.
 
 ## Estudo de Caso
 Cenário:
