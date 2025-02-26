@@ -6,6 +6,10 @@ Cenário:
 
 O consumidor X possui contrato de energia de longo prazo com a comercializadora Y, e utiliza os serviços de uma gestora de energia. Esse consumidor solicitou para a gestora de energia que realiza-se uma projeção de gastos com energia para o ano de 2024, com base no perfil de consumo de 2023. Ele também informou que devido à implementação de novos equipamentos, o consumo de energia deve aumentar em cerca de 30%.<br>
 **Nota:** Sabe-se que o contrato do consumidor é reajustado anualmente em janeiro, com base no índice IPCA.
+
+
+![image](https://github.com/user-attachments/assets/b631f8b6-44b3-4dba-9cb4-5920d6b8b10e)
+
           
 Dúvidas do Cliente:
 
