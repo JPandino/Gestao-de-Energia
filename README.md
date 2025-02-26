@@ -4,12 +4,12 @@ Este repositório trata de um case apresentado por uma gestora de energia...
 ## Estudo de Caso
 Cenário:
 
-O consumidor X possui contrato de energia de longo prazo com a comercializadora Y, e utiliza os serviços de uma gestora de energia. Esse consumidor solicitou para a gestora de energia que realiza-se uma projeção de gastos com energia para o ano de 2024, com base no perfil de consumo de 2023. Ele também informou que devido à implementação de novos equipamentos, o consumo de energia deve aumentar em cerca de 30%.
+O consumidor X possui contrato de energia de longo prazo com a comercializadora Y, e utiliza os serviços de uma gestora de energia. Esse consumidor solicitou para a gestora de energia que realiza-se uma projeção de gastos com energia para o ano de 2024, com base no perfil de consumo de 2023. Ele também informou que devido à implementação de novos equipamentos, o consumo de energia deve aumentar em cerca de 30%.<br>
 **Nota:** Sabe-se que o contrato do consumidor é reajustado anualmente em janeiro, com base no índice IPCA.
           
-Entregas:
+Dúvidas do Cliente:
 
-- Qual será o consumo total de energia do cliente para o ano de 2024 considerando o aumento de 30% no perfil de consumo?<br>
+- Qual será o consumo total de energia para o ano de 2024 considerando o aumento de 30% no perfil de consumo?<br>
 **Resposta:** 2.248.493,0 kWh.
 - Com base no histórico de consumo dos últimos 12 meses e no aumento de 30%, qual será a projeção de gastos com energia para o ano de 2024?<br>
 **Resposta:**
